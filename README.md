@@ -1,0 +1,1 @@
+Kompleksitas tergantung dari jumlah karakter dalam string input. Setiap karakter dalam string diperiksa tepat satu kali, sehingga waktu yang diperlukan untuk mengevaluasi keberimbangan tanda kurung bergantung secara langsung pada panjangnya string input dan bergantung pada pola atau urutan karakter kurung tertentu dalam string.
